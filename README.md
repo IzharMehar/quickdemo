@@ -1,15 +1,10 @@
-# quickdemo
-This is quick demo app
+# Quick Demo
+## Sub-Heading
 
-# This will allow you create a heading
-This is to wrtie a normal sentence
+Hello, this is a normal sentence.
 
-## This is to create a sub-heading
-This is to write a sentence
-
-### This is create a sub-sub-heading
-
-1. Hello
-2. Test
-3. further test
-    1. further further test
+1. Point 1
+2. Poimt 2
+3. Point 3
+    1. Sub-Point 1
+    
